@@ -1,0 +1,65 @@
+.vend{
+    margin-top: 0vh;
+    border: 10px solid green;
+    padding: 1vh;
+    border-top-left-radius: 2vh;
+    border-bottom-right-radius: 2vh;
+}
+button{
+    margin-left: 35vh;
+}
+#btn{
+    margin-left: 120vh;
+    padding: 8px;
+    border-radius: 9px;
+    box-shadow: inset 3px -3px 13px;
+}
+input{
+    height: 3vh;
+}
+#debit{
+    margin-left: 10%;
+    width: 50%;
+    height: 5vh;
+    text-align: center;
+}
+#Coke{
+    width: 60%;
+}
+#BigiApple{
+    width: 60%;
+}
+#BigiChapman{
+    width: 60%;
+}
+#FearLess{
+    width: 60%;
+}
+#Horlandia{
+    width: 60%;
+}
+#totalPay{
+    width: 60%; 
+    height: 5vh;
+}
+#enter{
+    background-color: red;
+    opacity: 90%;
+    border-radius: 50%;
+    height: 25px;
+    width: 45px;
+    font-size: 1.9vh;
+    border: none;
+    box-shadow: 0px 0px 2px 4px;
+}
+#flr{
+    background-color: coral;
+    border-radius: 10px;
+    height: 40px;
+    width: 60px;
+}
+#deduct{
+    background-color: green; 
+    padding: 10px; 
+    border-radius: 10px;
+}
